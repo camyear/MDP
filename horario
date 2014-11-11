@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+ <head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="5.0.704.218"/>
+  <title>Horario</title>
+  <meta name="viewport" content="width=480"/>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?3837790900"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-p_gina-maestra.css?201031856"/>
+  <link rel="stylesheet" type="text/css" href="css/horario.css?525899703" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   document.documentElement.className += ' js';
+</script>
+   </head>
+ <body>
+
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="clearfix browser_width colelem" id="u207"><!-- group -->
+    <a class="nonblock nontext grpelem" id="u209" href="menu.html"><!-- image --><img class="block" id="u209_img" src="images/u268-5.png" alt="" width="211" height="41"/></a>
+   </div>
+   <div class="browser_width colelem" id="u208"><!-- simple frame --></div>
+   <img class="colelem" id="u746-6" src="images/u746-6.png" alt="Sergio Alexander Amezquita Romero
+ID: 000330219" width="303" height="38"/><!-- rasterized frame -->
+   <div class="clearfix colelem" id="paccordionu623"><!-- group -->
+    <div class="grpelem" id="accordionu623wrapper"><!-- Accordion wrapper -->
+     <ul class="AccordionWidget clearfix" id="accordionu623"><!-- column -->
+      <li class="AccordionPanel clearfix colelem" id="u639"><!-- vertical box -->
+       <img class="AccordionPanelTab colelem" id="u640" alt="Lunes" src="images/blank.gif"/><!-- state-based BG images -->
+       <div class="AccordionPanelContent disn clearfix colelem" id="u641"><!-- column -->
+        <div class="position_content" id="u641_position_content">
+         <img class="colelem" id="u642-8" src="images/u642-8.png" alt="DISEÑO DE SITIOS WEB(22586)
+9:15 AM&#45;11:29AM
+A210" width="414" height="88"/><!-- rasterized frame -->
+         <img class="colelem" id="u720-8" src="images/u720-8.png" alt="INGLÉS III(538)
+11:30 AM&#45;12:59PM
+B203" width="414" height="88"/><!-- rasterized frame -->
+        </div>
+       </div>
+      </li>
+      <li class="AccordionPanel clearfix colelem" id="u635"><!-- vertical box -->
+       <img class="AccordionPanelTab colelem" id="u636" alt="Martes" src="images/blank.gif"/><!-- state-based BG images -->
+       <div class="AccordionPanelContent disn clearfix colelem" id="u637"><!-- group -->
+        <img class="grpelem" id="u734-8" src="images/u734-8.png" alt="ANIMACIÓN Y VIDEO(6340)
+8:30 AM&#45;11:29AM
+A210" width="414" height="88"/><!-- rasterized frame -->
+       </div>
+      </li>
+      <li class="AccordionPanel clearfix colelem" id="u643"><!-- vertical box -->
+       <img class="AccordionPanelTab colelem" id="u644" alt="Miércoles" src="images/blank.gif"/><!-- state-based BG images -->
+       <a class="nonblock nontext AccordionPanelContent disn clearfix colelem" id="u645" href="disegnio-apps.html"><!-- group --><img class="grpelem" id="u736-8" src="images/u736-8.png" alt="DISEÑO PARA DISPOSITIVOS MÓVILES(22635)
+7:00 AM&#45;9:14AM
+A210" width="414" height="88"/><!-- rasterized frame --></a>
+      </li>
+      <li class="AccordionPanel clearfix colelem" id="u724"><!-- vertical box -->
+       <img class="AccordionPanelTab colelem" id="u727" alt="Jueves" src="images/blank.gif"/><!-- state-based BG images -->
+       <div class="AccordionPanelContent disn clearfix colelem" id="u725"><!-- column -->
+        <div class="position_content" id="u725_position_content">
+         <img class="colelem" id="u737-8" src="images/u737-8.png" alt="TECNICAS DE ILUSTRCION(6274)
+7:00 AM&#45;8:29AM
+A502" width="414" height="88"/><!-- rasterized frame -->
+         <img class="colelem" id="u738-8" src="images/u738-8.png" alt="MODELADO 3D(22598)
+9:14AM&#45;10:44AM
+A312" width="414" height="88"/><!-- rasterized frame -->
+         <img class="colelem" id="u739-8" src="images/u739-8.png" alt="INGLÉS III(538)
+11:30 AM&#45;12:59PM
+B407" width="414" height="88"/><!-- rasterized frame -->
+        </div>
+       </div>
+      </li>
+      <li class="AccordionPanel clearfix colelem" id="u728"><!-- vertical box -->
+       <img class="AccordionPanelTab colelem" id="u729" alt="Viernes" src="images/blank.gif"/><!-- state-based BG images -->
+       <div class="AccordionPanelContent disn clearfix colelem" id="u730"><!-- group -->
+        <img class="grpelem" id="u753-4" src="images/u753-4.png" alt="x" width="414" height="88"/><!-- rasterized frame -->
+       </div>
+      </li>
+      <li class="AccordionPanel clearfix colelem" id="u731"><!-- vertical box -->
+       <img class="AccordionPanelTab colelem" id="u732" alt="Sábado" src="images/blank.gif"/><!-- state-based BG images -->
+       <div class="AccordionPanelContent disn clearfix colelem" id="u733"><!-- group -->
+        <img class="grpelem" id="u754-4" src="images/u754-4.png" alt="x" width="414" height="88"/><!-- rasterized frame -->
+       </div>
+      </li>
+     </ul>
+    </div>
+    <div class="clearfix grpelem" id="u723-3"><!-- content -->
+     <p>&nbsp;</p>
+    </div>
+   </div>
+   <div class="verticalspacer"></div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/u640-r.png" alt=""/>
+   <img class="preload" src="images/u640-m.png" alt=""/>
+   <img class="preload" src="images/u640-a.png" alt=""/>
+   <img class="preload" src="images/u636-r.png" alt=""/>
+   <img class="preload" src="images/u636-m.png" alt=""/>
+   <img class="preload" src="images/u636-a.png" alt=""/>
+   <img class="preload" src="images/u644-r.png" alt=""/>
+   <img class="preload" src="images/u644-m.png" alt=""/>
+   <img class="preload" src="images/u644-a.png" alt=""/>
+   <img class="preload" src="images/u727-r.png" alt=""/>
+   <img class="preload" src="images/u727-m.png" alt=""/>
+   <img class="preload" src="images/u727-a.png" alt=""/>
+   <img class="preload" src="images/u729-r.png" alt=""/>
+   <img class="preload" src="images/u729-m.png" alt=""/>
+   <img class="preload" src="images/u729-a.png" alt=""/>
+   <img class="preload" src="images/u732-r.png" alt=""/>
+   <img class="preload" src="images/u732-m.png" alt=""/>
+   <img class="preload" src="images/u732-a.png" alt=""/>
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script src="scripts/museutils.js?3992981318" type="text/javascript"></script>
+  <script src="scripts/jquery.tobrowserwidth.js?317228635" type="text/javascript"></script>
+  <script src="scripts/webpro.js?197321703" type="text/javascript"></script>
+  <script src="scripts/musewpdisclosure.js?4285748861" type="text/javascript"></script>
+  <script src="scripts/jquery.watch.js?4068933136" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   $(document).ready(function() { try {
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+$('.browser_width').toBrowserWidth();/* browser width elements */
+Muse.Utils.prepHyperlinks();/* body */
+Muse.Utils.initWidget('#accordionu623', function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu623 */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
+   </body>
+</html>
