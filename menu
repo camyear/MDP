@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+ <head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="5.0.704.218"/>
+  <title>Menu</title>
+  <meta name="viewport" content="width=480"/>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?3837790900"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-p_gina-maestra.css?201031856"/>
+  <link rel="stylesheet" type="text/css" href="css/menu.css?508558167" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   document.documentElement.className += ' js';
+</script>
+   </head>
+ <body>
+
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="clearfix browser_width colelem" id="u207"><!-- group -->
+    <a class="nonblock nontext MuseLinkActive grpelem" id="u209" href="menu.html"><!-- image --><img class="block" id="u209_img" src="images/u268-5.png" alt="" width="211" height="41"/></a>
+   </div>
+   <div class="browser_width colelem" id="u208"><!-- simple frame --></div>
+   <img class="colelem" id="u746-6" src="images/u746-6.png" alt="Sergio Alexander Amezquita Romero
+ID: 000330219" width="303" height="38"/><!-- rasterized frame -->
+   <ul class="MenuBar clearfix colelem" id="menuu245"><!-- column -->
+    <li class="MenuItemContainer clearfix colelem" id="u388"><!-- horizontal box -->
+     <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix grpelem" id="u389" href="horario.html"><!-- horizontal box --><img class="MenuItemLabel grpelem" id="u391" alt="Horario" src="images/blank.gif"/><!-- state-based BG images --></a>
+    </li>
+    <li class="MenuItemContainer clearfix colelem" id="u402"><!-- horizontal box -->
+     <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix grpelem" id="u405" href="calendario.html"><!-- horizontal box --><img class="MenuItemLabel grpelem" id="u408" alt="Calendario" src="images/blank.gif"/><!-- state-based BG images --></a>
+    </li>
+    <li class="MenuItemContainer clearfix colelem" id="u395"><!-- horizontal box -->
+     <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix grpelem" id="u398" href="notas.html"><!-- horizontal box --><img class="MenuItemLabel grpelem" id="u401" alt="Notas" src="images/blank.gif"/><!-- state-based BG images --></a>
+    </li>
+    <li class="MenuItemContainer clearfix colelem" id="u409"><!-- horizontal box -->
+     <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix grpelem" id="u412" href="facultad.html"><!-- horizontal box --><img class="MenuItemLabel grpelem" id="u413" alt="Facultad" src="images/blank.gif"/><!-- state-based BG images --></a>
+    </li>
+   </ul>
+   <div class="verticalspacer"></div>
+   <div class="rounded-corners clearfix colelem" id="u866"><!-- group -->
+    <a class="nonblock nontext grpelem" id="u867-4" href="acceso.html"><!-- rasterized frame --><img id="u867-4_img" src="images/u867-4.png" alt="x" width="14" height="14"/></a>
+   </div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/u391-a.png" alt=""/>
+   <img class="preload" src="images/u408-a.png" alt=""/>
+   <img class="preload" src="images/u401-a.png" alt=""/>
+   <img class="preload" src="images/u413-a.png" alt=""/>
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script src="scripts/museutils.js?3992981318" type="text/javascript"></script>
+  <script src="scripts/jquery.tobrowserwidth.js?317228635" type="text/javascript"></script>
+  <script src="scripts/jquery.musemenu.js?3788803530" type="text/javascript"></script>
+  <script src="scripts/jquery.watch.js?4068933136" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   $(document).ready(function() { try {
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+$('.browser_width').toBrowserWidth();/* browser width elements */
+Muse.Utils.prepHyperlinks();/* body */
+Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
+   </body>
+</html>
